@@ -1,0 +1,1 @@
+deployer.cpp - встраивание BMP файла в EXE файл (BMP must be FLIP!)
